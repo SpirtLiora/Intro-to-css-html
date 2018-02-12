@@ -1,2 +1,2 @@
 # Intro-to-css-html
-Where I keep my css
+Where I keep my css\html projects
